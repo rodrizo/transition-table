@@ -1,0 +1,6 @@
+Estado;Finalizacion;a;b;c;d
+1;No;;2;;;
+2;SI;4;;;;
+3;No;1;4;;;
+4;No;;;;2
+5;Si;;3;2;5
